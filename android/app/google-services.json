@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774055746667",
+    "project_id": "e-vehicle-eaecf",
+    "storage_bucket": "e-vehicle-eaecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774055746667:android:c52f47fbef7436ebf5e52e",
+        "android_client_info": {
+          "package_name": "com.example.e_vehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774055746667-41cmet3fl6vsgd0vra58096ircnmatu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnNEcy88Mj1RGkT0b6PL_SlRbOyabZvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774055746667-41cmet3fl6vsgd0vra58096ircnmatu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
